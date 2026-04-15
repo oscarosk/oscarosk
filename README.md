@@ -1,4 +1,4 @@
-# Howdy, I'm Oscar 👋
+# Hi, I'm Oscar 👋
 
 ### Software Engineer | Systems & Backend Developer
 
