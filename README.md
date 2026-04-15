@@ -29,10 +29,4 @@
 
 ---
 
-### 📫 Connect with Me
-
-* LinkedIn: [Oscar](https://www.linkedin.com/in/oscar-k-025252234/)
-
----
-
 ⭐️ Open to collaboration and open source contributions
