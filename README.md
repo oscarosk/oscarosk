@@ -10,7 +10,7 @@ Focused on Open Source | Preparing for Outreachy
 
 * 💻 Working with: Systems programming & backend development
 * 🌱 Currently exploring: Rust, Go, and scalable backend systems
-* 🔍 Actively contributing to open source (Outreachy preparation)
+* 🔍 Starting to contribute to open source
 * 🚀 Goal: Build reliable and efficient systems
 
 ---
