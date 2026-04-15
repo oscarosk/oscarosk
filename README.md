@@ -2,8 +2,6 @@
 
 ### Software Engineer | Systems & Backend Developer
 
-Focused on Open Source | Preparing for Outreachy
-
 ---
 
 ### 🧠 About Me
